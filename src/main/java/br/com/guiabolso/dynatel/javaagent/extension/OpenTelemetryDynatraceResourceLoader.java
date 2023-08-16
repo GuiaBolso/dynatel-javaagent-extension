@@ -1,4 +1,4 @@
-package com.picpay.dynatel.javaagent.extension;
+package br.com.guiabolso.dynatel.javaagent.extension;
 
 import io.opentelemetry.api.common.AttributeKey;
 import io.opentelemetry.api.common.Attributes;

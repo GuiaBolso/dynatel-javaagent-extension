@@ -1,4 +1,4 @@
-package com.picpay.dynatel.javaagent.extension;
+package br.com.guiabolso.dynatel.javaagent.extension;
 
 import java.io.FileInputStream;
 import java.io.IOException;

@@ -1,7 +1,7 @@
 # Dynatel - Dynatrace OpenTelemetry javaagent extension
 =========================
 
-![Maven Central](https://img.shields.io/maven-central/v/com.picpay/dynatel-javaagent-extension)
+![Maven Central](https://img.shields.io/maven-central/v/br.com.guiabolso/dynatel-javaagent-extension)
 
 ### Funcionalidades
 

@@ -4,7 +4,7 @@ plugins {
     signing
 }
 
-group = "com.picpay"
+group = "br.com.guiabolso"
 version = System.getenv("RELEASE_VERSION") ?: "local"
 
 apply(plugin = "maven-publish")
